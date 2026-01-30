@@ -24,11 +24,11 @@ development()
 
 ## The Project's Goals; $7000 backtest RoI & <20% MDD.
 
-![Alt text](https://github.com/klein-baru/DRL_for_Crypto_Trading/blob/master/images/MALLY_goals.png)
+![Alt text](https://github.com/klein-baru/MALLY-Crypto-Trading-AI-Agent-I/blob/main/MALLY_goals.png)
 
 ## The Project's Flow.
 
-![Alt text](https://github.com/klein-baru/DRL_for_Crypto_Trading/blob/master/images/MALLY_flow.png)
+![Alt text](https://github.com/klein-baru/MALLY-Crypto-Trading-AI-Agent-I/blob/main/MALLY_flow.png)
 
 
 
